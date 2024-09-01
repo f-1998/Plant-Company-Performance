@@ -28,3 +28,17 @@ This Power BI project analyzes business performance using key metrics such as sa
 - **Fact Table**: Transactional data, including sales, quantity, and GP%.
 - **Account Table**: Account-specific details such as regions and customer IDs.
 - **Product Hierarchy Table**: Hierarchical classification of products for drilldown analysis.
+
+![Sales](https://github.com/user-attachments/assets/74a38dde-df93-46e3-8ca0-1bc5697266a2)
+
+## Key Performance Indicators (KPIs)
+- **Sales**: Revenue generated during the period.
+- **Quantity**: Number of units sold.
+- **COGS**: Cost of goods sold.
+- **Gross Profit Percentage (GP%)**: Profitability metric calculated from sales and COGS.
+- **YTD vs PYTD**: Year-over-year comparison of performance metrics.
+
+## Key Takeaways
+- Dynamic switch measures enhance report interactivity.
+- Custom visual formatting improves readability and user engagement.
+- Advanced scatter charts and tree maps offer insight into underperforming countries and accounts.

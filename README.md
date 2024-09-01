@@ -42,3 +42,14 @@ This Power BI project analyzes business performance using key metrics such as sa
 - Dynamic switch measures enhance report interactivity.
 - Custom visual formatting improves readability and user engagement.
 - Advanced scatter charts and tree maps offer insight into underperforming countries and accounts.
+
+https://github.com/user-attachments/assets/b39a7c82-78f1-415c-a1ae-fc1d0dfd9c6a
+
+## Conclusion
+
+The Project effectively demonstrates the power of dynamic data visualization and advanced analytics in uncovering key business insights. By integrating measures like sales, quantity, cost of goods sold (COGS), and gross profit percentage (GP%), the report provides a comprehensive overview of business performance. The use of year-to-date (YTD) and prior year-to-date (PYTD) comparisons allows for insightful period-over-period analysis, enabling better decision-making.
+
+The advanced visualizations, such as scatter charts for profitability analysis and tree maps for performance by country, help identify trends, pinpoint underperforming regions, and prioritize high-value accounts. Through the implementation of switch measures, the report enables users to dynamically toggle between key metrics, enhancing interactivity and user engagement.
+
+
+
